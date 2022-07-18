@@ -1,4 +1,5 @@
-org 0x7c00
+[org 0x7c00]
+[BITS 16]
 ; Main bootloader
 ; loads FIRST 512 bytes (510 + padding)
 ; Hidden Studios (c) 2020-2022 All Rights Reserved.
