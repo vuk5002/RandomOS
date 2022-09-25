@@ -1,0 +1,1 @@
+qemu-system-x86_64 -fda ready/main_floppy.img
