@@ -1,3 +1,7 @@
+; RandomOS
+; Ver 0.0.5v
+; NEW: Kernel, Read the disk
+
 org 0x7C00
 bits 16
 
